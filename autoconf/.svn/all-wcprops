@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/DISC/!svn/ver/2/CSrc2Src/autoconf
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/DISC/!svn/ver/2/CSrc2Src/autoconf/LICENSE.TXT
+END
+AutoRegen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/DISC/!svn/ver/2/CSrc2Src/autoconf/AutoRegen.sh
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/DISC/!svn/ver/2/CSrc2Src/autoconf/configure.ac
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/DISC/!svn/ver/2/CSrc2Src/autoconf/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/DISC/!svn/ver/2/CSrc2Src/autoconf/config.sub
+END

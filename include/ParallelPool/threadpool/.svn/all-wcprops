@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/DISC/!svn/ver/2/CSrc2Src/include/ParallelPool/threadpool
+END
+pool.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/DISC/!svn/ver/2/CSrc2Src/include/ParallelPool/threadpool/pool.hpp
+END
+future.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DISC/!svn/ver/2/CSrc2Src/include/ParallelPool/threadpool/future.hpp
+END
+scheduling_policies.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DISC/!svn/ver/2/CSrc2Src/include/ParallelPool/threadpool/scheduling_policies.hpp
+END
+task_adaptors.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DISC/!svn/ver/2/CSrc2Src/include/ParallelPool/threadpool/task_adaptors.hpp
+END
+size_policies.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DISC/!svn/ver/2/CSrc2Src/include/ParallelPool/threadpool/size_policies.hpp
+END
+shutdown_policies.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DISC/!svn/ver/2/CSrc2Src/include/ParallelPool/threadpool/shutdown_policies.hpp
+END
+pool_adaptors.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DISC/!svn/ver/2/CSrc2Src/include/ParallelPool/threadpool/pool_adaptors.hpp
+END

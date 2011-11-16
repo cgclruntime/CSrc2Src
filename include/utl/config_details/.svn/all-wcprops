@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/config_details
+END
+Settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/config_details/Settings.h
+END
+ConfigValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/config_details/ConfigValue.h
+END
+IniReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/config_details/IniReader.h
+END

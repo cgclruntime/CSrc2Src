@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/DISC/!svn/ver/66/CSrc2Src/tools/ssc
+END
+computeGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/DISC/!svn/ver/21/CSrc2Src/tools/ssc/computeGraph.cpp
+END
+findSubGraphs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/DISC/!svn/ver/21/CSrc2Src/tools/ssc/findSubGraphs.cpp
+END
+utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/DISC/!svn/ver/25/CSrc2Src/tools/ssc/utils.cpp
+END
+betweennessCentrality.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/DISC/!svn/ver/64/CSrc2Src/tools/ssc/betweennessCentrality.cpp
+END
+init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/DISC/!svn/ver/21/CSrc2Src/tools/ssc/init.cpp
+END
+rand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/DISC/!svn/ver/25/CSrc2Src/tools/ssc/rand.cpp
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/DISC/!svn/ver/66/CSrc2Src/tools/ssc/defs.h
+END
+genScalData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/DISC/!svn/ver/21/CSrc2Src/tools/ssc/genScalData.cpp
+END
+HPCS-SSCA2_Graph-Theory_v2.1.doc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/DISC/!svn/ver/13/CSrc2Src/tools/ssc/HPCS-SSCA2_Graph-Theory_v2.1.doc
+END
+SSCA2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/DISC/!svn/ver/27/CSrc2Src/tools/ssc/SSCA2.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/DISC/!svn/ver/24/CSrc2Src/tools/ssc/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/DISC/!svn/ver/15/CSrc2Src/tools/ssc/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/DISC/!svn/ver/13/CSrc2Src/tools/ssc/README
+END
+getStartLists.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/DISC/!svn/ver/21/CSrc2Src/tools/ssc/getStartLists.cpp
+END

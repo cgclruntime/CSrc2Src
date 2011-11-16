@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/DISC/!svn/ver/274/CSrc2Src/tools
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/DISC/!svn/ver/274/CSrc2Src/tools/test.c
+END
+y.tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/DISC/!svn/ver/250/CSrc2Src/tools/y.tab.h
+END
+abc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/DISC/!svn/ver/2/CSrc2Src/tools/abc
+END
+y.output
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/DISC/!svn/ver/2/CSrc2Src/tools/y.output
+END
+c.y
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/DISC/!svn/ver/274/CSrc2Src/tools/c.y
+END
+lex.yy.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/DISC/!svn/ver/274/CSrc2Src/tools/lex.yy.c
+END
+c.l
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/DISC/!svn/ver/274/CSrc2Src/tools/c.l
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/DISC/!svn/ver/2/CSrc2Src/tools/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/DISC/!svn/ver/20/CSrc2Src/tools/CMakeLists.txt
+END
+y.tab.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/DISC/!svn/ver/274/CSrc2Src/tools/y.tab.c
+END
+subdir.mk
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/DISC/!svn/ver/2/CSrc2Src/tools/subdir.mk
+END

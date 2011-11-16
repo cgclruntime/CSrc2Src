@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/network_details
+END
+network.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/network_details/network.h
+END
+pkg_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/network_details/pkg_base.h
+END
+udp_sender_recver.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/network_details/udp_sender_recver.h
+END
+socket_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/network_details/socket_base.h
+END
+recv_send_buf.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/network_details/recv_send_buf.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/network_details/config.h
+END

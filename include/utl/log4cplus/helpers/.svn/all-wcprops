@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/helpers
+END
+appenderattachableimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/helpers/appenderattachableimpl.h
+END
+thread-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/helpers/thread-config.h
+END
+threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/helpers/threads.h
+END
+timehelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/helpers/timehelper.h
+END
+pointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/helpers/pointer.h
+END
+logloguser.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/helpers/logloguser.h
+END
+socketbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/helpers/socketbuffer.h
+END
+loglog.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/helpers/loglog.h
+END
+property.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/helpers/property.h
+END
+stringhelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/helpers/stringhelper.h
+END
+sleep.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/helpers/sleep.h
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/helpers/socket.h
+END

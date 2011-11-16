@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus
+END
+nullappender.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/nullappender.h
+END
+tstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/tstring.h
+END
+loggingmacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/loggingmacros.h
+END
+fileappender.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/fileappender.h
+END
+appender.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/appender.h
+END
+syslogappender.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/syslogappender.h
+END
+configurator.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/configurator.h
+END
+ndc.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/ndc.h
+END
+nteventlogappender.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/nteventlogappender.h
+END
+stamp-h1
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/stamp-h1
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/config.h
+END
+socketappender.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/socketappender.h
+END
+loglevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/loglevel.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/config.h.in
+END
+layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/layout.h
+END
+hierarchylocker.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/hierarchylocker.h
+END
+hierarchy.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/hierarchy.h
+END
+streams.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/streams.h
+END
+logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/logger.h
+END
+consoleappender.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/consoleappender.h
+END
+fstreams.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/fstreams.h
+END
+config.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/config.hxx
+END

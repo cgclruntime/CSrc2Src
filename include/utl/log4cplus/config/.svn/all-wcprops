@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/config
+END
+macosx.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/config/macosx.h
+END
+defines.hxx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/config/defines.hxx
+END
+defines.hxx.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/config/defines.hxx.in
+END
+win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/config/win32.h
+END
+stamp-h2
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/config/stamp-h2
+END

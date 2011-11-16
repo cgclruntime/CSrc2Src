@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/spi
+END
+objectregistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/spi/objectregistry.h
+END
+loggerimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/spi/loggerimpl.h
+END
+rootlogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/spi/rootlogger.h
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/spi/filter.h
+END
+appenderattachable.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/spi/appenderattachable.h
+END
+factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/spi/factory.h
+END
+loggerfactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/spi/loggerfactory.h
+END
+loggingevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus/spi/loggingevent.h
+END

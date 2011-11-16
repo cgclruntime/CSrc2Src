@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/DISC/!svn/ver/32/CSrc2Src/tools/oldssc
+END
+computeGraph.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/DISC/!svn/ver/31/CSrc2Src/tools/oldssc/computeGraph.c
+END
+findSubGraphs.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/DISC/!svn/ver/31/CSrc2Src/tools/oldssc/findSubGraphs.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/DISC/!svn/ver/31/CSrc2Src/tools/oldssc/utils.c
+END
+betweennessCentrality.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/DISC/!svn/ver/31/CSrc2Src/tools/oldssc/betweennessCentrality.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/DISC/!svn/ver/31/CSrc2Src/tools/oldssc/init.c
+END
+rand.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/DISC/!svn/ver/31/CSrc2Src/tools/oldssc/rand.c
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/DISC/!svn/ver/31/CSrc2Src/tools/oldssc/defs.h
+END
+genScalData.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/DISC/!svn/ver/31/CSrc2Src/tools/oldssc/genScalData.c
+END
+HPCS-SSCA2_Graph-Theory_v2.1.doc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/DISC/!svn/ver/31/CSrc2Src/tools/oldssc/HPCS-SSCA2_Graph-Theory_v2.1.doc
+END
+SSCA2.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/DISC/!svn/ver/31/CSrc2Src/tools/oldssc/SSCA2.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/DISC/!svn/ver/32/CSrc2Src/tools/oldssc/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/DISC/!svn/ver/31/CSrc2Src/tools/oldssc/README
+END
+getStartLists.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/DISC/!svn/ver/31/CSrc2Src/tools/oldssc/getStartLists.c
+END

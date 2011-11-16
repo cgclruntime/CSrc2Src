@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/utl_impl_details/config_impl
+END
+Settings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/utl_impl_details/config_impl/Settings.cpp
+END
+ConfigValue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/utl_impl_details/config_impl/ConfigValue.cpp
+END
+IniReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/utl_impl_details/config_impl/IniReader.cpp
+END

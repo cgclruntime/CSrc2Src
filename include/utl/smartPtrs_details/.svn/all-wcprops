@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/smartPtrs_details
+END
+shared_ptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/smartPtrs_details/shared_ptr.h
+END
+owning_ptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/smartPtrs_details/owning_ptr.h
+END

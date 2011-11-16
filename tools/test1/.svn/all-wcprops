@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/DISC/!svn/ver/79/CSrc2Src/tools/test1
+END
+test1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/DISC/!svn/ver/79/CSrc2Src/tools/test1/test1.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/DISC/!svn/ver/2/CSrc2Src/tools/test1/CMakeLists.txt
+END

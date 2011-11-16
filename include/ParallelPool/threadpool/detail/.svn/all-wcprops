@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DISC/!svn/ver/2/CSrc2Src/include/ParallelPool/threadpool/detail
+END
+future.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DISC/!svn/ver/2/CSrc2Src/include/ParallelPool/threadpool/detail/future.hpp
+END
+locking_ptr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DISC/!svn/ver/2/CSrc2Src/include/ParallelPool/threadpool/detail/locking_ptr.hpp
+END
+scope_guard.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DISC/!svn/ver/2/CSrc2Src/include/ParallelPool/threadpool/detail/scope_guard.hpp
+END
+worker_thread.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DISC/!svn/ver/2/CSrc2Src/include/ParallelPool/threadpool/detail/worker_thread.hpp
+END
+pool_core.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DISC/!svn/ver/2/CSrc2Src/include/ParallelPool/threadpool/detail/pool_core.hpp
+END

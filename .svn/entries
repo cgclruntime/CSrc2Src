@@ -1,0 +1,86 @@
+10
+
+dir
+408
+http://211.69.198.67/svn/DISC/CSrc2Src
+http://211.69.198.67/svn/DISC
+
+
+
+2011-07-20T04:20:50.195264Z
+274
+fanxuepeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1f2a193c-f795-4fbb-8b38-64ffd76c608c
+
+build
+dir
+
+tools
+dir
+
+include
+dir
+
+CSrc2Src
+dir
+
+lib
+dir
+
+docs
+dir
+
+retVal
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2011-11-16T02:27:54.761666Z
+e406858ea93be564a78de6232504755b
+2011-07-04T01:18:40.092801Z
+216
+fanxuepeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+750
+
+autoconf
+dir
+

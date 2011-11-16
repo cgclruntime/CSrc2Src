@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/DISC/!svn/ver/79/CSrc2Src/lib/ParallelPool
+END
+FuncContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/DISC/!svn/ver/12/CSrc2Src/lib/ParallelPool/FuncContext.cpp
+END
+ParaFuncMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/DISC/!svn/ver/10/CSrc2Src/lib/ParallelPool/ParaFuncMgr.cpp
+END
+ParallelHeader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/DISC/!svn/ver/5/CSrc2Src/lib/ParallelPool/ParallelHeader.cpp
+END
+ActionScope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/DISC/!svn/ver/2/CSrc2Src/lib/ParallelPool/ActionScope.cpp
+END
+PFIDGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/DISC/!svn/ver/2/CSrc2Src/lib/ParallelPool/PFIDGenerator.cpp
+END
+ParaMsg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/DISC/!svn/ver/2/CSrc2Src/lib/ParallelPool/ParaMsg.cpp
+END
+WaitConds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DISC/!svn/ver/2/CSrc2Src/lib/ParallelPool/WaitConds.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/DISC/!svn/ver/2/CSrc2Src/lib/ParallelPool/CMakeLists.txt
+END
+ParaPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DISC/!svn/ver/79/CSrc2Src/lib/ParallelPool/ParaPool.cpp
+END

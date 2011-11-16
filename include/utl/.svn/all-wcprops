@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl
+END
+utl_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/utl_config.h
+END
+Network.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/Network.h
+END
+Threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/Threads.h
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/Exception.h
+END
+log4cplus-1.0.4-rc7.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/log4cplus-1.0.4-rc7.tar.bz2
+END
+SmartPtrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/SmartPtrs.h
+END
+State.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/State.h
+END
+UtlImpl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/UtlImpl.cxx
+END
+Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/Log.h
+END
+OsUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/OsUtils.h
+END
+Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/Config.h
+END
+Msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/Msg.h
+END
+MultiChar.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/DISC/!svn/ver/2/CSrc2Src/include/utl/MultiChar.h
+END

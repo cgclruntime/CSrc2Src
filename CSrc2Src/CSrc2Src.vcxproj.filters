@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\ParallelPool">
+      <UniqueIdentifier>{3454f163-dd32-4e93-b3cf-22ebc78cb34d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\ParallelPool">
+      <UniqueIdentifier>{96b92105-ba54-4d00-8e58-e0f54e2384c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\utl">
+      <UniqueIdentifier>{b8b279b9-dfff-4252-9255-88faa15028a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\threadpool">
+      <UniqueIdentifier>{4f04612a-3c17-4756-8dad-8892f0651d08}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\include\ParallelPool\Types.h">
+      <Filter>头文件\ParallelPool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ParallelPool\WaitConds.h">
+      <Filter>头文件\ParallelPool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ParallelPool\FuncContext.h">
+      <Filter>头文件\ParallelPool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ParallelPool\ParaFuncMgr.h">
+      <Filter>头文件\ParallelPool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ParallelPool\ParaPool.h">
+      <Filter>头文件\ParallelPool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\utl\Exception.h">
+      <Filter>头文件\utl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\utl\Msg.h">
+      <Filter>头文件\utl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\utl\Network.h">
+      <Filter>头文件\utl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\utl\OsUtils.h">
+      <Filter>头文件\utl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\utl\SmartPtrs.h">
+      <Filter>头文件\utl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\utl\State.h">
+      <Filter>头文件\utl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\utl\Threads.h">
+      <Filter>头文件\utl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\utl\utl_config.h">
+      <Filter>头文件\utl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ParallelPool\threadpool\future.hpp">
+      <Filter>头文件\threadpool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ParallelPool\threadpool\pool.hpp">
+      <Filter>头文件\threadpool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ParallelPool\threadpool\pool_adaptors.hpp">
+      <Filter>头文件\threadpool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ParallelPool\threadpool\scheduling_policies.hpp">
+      <Filter>头文件\threadpool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ParallelPool\threadpool\shutdown_policies.hpp">
+      <Filter>头文件\threadpool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ParallelPool\threadpool\size_policies.hpp">
+      <Filter>头文件\threadpool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ParallelPool\threadpool\task_adaptors.hpp">
+      <Filter>头文件\threadpool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ParallelPool\threadpool.hpp">
+      <Filter>头文件\ParallelPool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ParaHeader.h">
+      <Filter>头文件\ParallelPool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ParallelPool\ActionScope.h">
+      <Filter>头文件\ParallelPool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ParallelPool\PFIDGenerator.h">
+      <Filter>头文件\ParallelPool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ParallelPool\ParaFuncSyn.h">
+      <Filter>头文件\ParallelPool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ParallelPool\ParaMsg.h">
+      <Filter>头文件\ParallelPool</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\lib\ParallelPool\FuncContext.cpp">
+      <Filter>源文件\ParallelPool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\lib\ParallelPool\ParaFuncMgr.cpp">
+      <Filter>源文件\ParallelPool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\lib\ParallelPool\ParaPool.cpp">
+      <Filter>源文件\ParallelPool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\lib\ParallelPool\ActionScope.cpp">
+      <Filter>源文件\ParallelPool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\lib\ParallelPool\WaitConds.cpp">
+      <Filter>源文件\ParallelPool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\lib\ParallelPool\ParallelHeader.cpp">
+      <Filter>源文件\ParallelPool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\lib\ParallelPool\ParaMsg.cpp">
+      <Filter>源文件\ParallelPool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\lib\ParallelPool\PFIDGenerator.cpp">
+      <Filter>源文件\ParallelPool</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
